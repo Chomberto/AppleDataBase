@@ -1,0 +1,8 @@
+{
+    "osStr": "Bluetooth Headset Firmware",
+    "version": "5.9.9",
+    "build": "5.9.9",
+    "deviceMap": [
+        "BeatsSolo3,1"
+    ]
+}
