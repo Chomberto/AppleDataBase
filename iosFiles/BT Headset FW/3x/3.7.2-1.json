@@ -1,0 +1,10 @@
+{
+    "osStr": "Bluetooth Headset Firmware",
+    "version": "3.7.2",
+    "build": "3.7.2",
+    "released": "2020",
+    "deviceMap": [
+        "BeatsX2,1",
+        "BeatsX2,1-fragment"
+    ]
+}
